@@ -1,0 +1,14 @@
+{
+  "name": "projecteuler-js",
+  "version": "0.0.0",
+  "description": "My projecteuler.net solutions in JavaScript.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jedireza/projecteuler-js.git"
+  },
+  "author": "Reza Akhavan",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "~1.1.5"
+  }
+}
